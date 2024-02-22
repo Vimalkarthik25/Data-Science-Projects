@@ -1,4 +1,4 @@
-**1. Project: Cell Phone Price Prediction**
+## 1. Project: Cell Phone Price Prediction
 
 **Objective:** 
 Develop a machine learning model for predicting cell phone prices based on various features.
@@ -13,7 +13,8 @@ Develop a machine learning model for predicting cell phone prices based on vario
 - EDA highlighted balanced distribution, Bluetooth prevalence, and trends in battery power, RAM, and weight.
 - SVM with hyperparameter tuning proved optimal for predicting mobile phone prices.
 
-**2. Project: Skin Disorder Prediction**
+
+## 2. Project: Skin Disorder Prediction
 
 **Objective:**
 Develop a machine learning model to predict different classes of skin diseases and provide early identification recommendations to doctors.
@@ -27,7 +28,8 @@ Develop a machine learning model to predict different classes of skin diseases a
 - Random Forest Classifier emerged as the preferred choice with exceptional accuracy, precision, recall, and F1 score.
 - Demonstrated capability to deliver accurate and reliable predictions in various scenarios.
 
-**3. Project: Insurance Cost Prediction**
+
+## 3. Project: Insurance Cost Prediction
 
 **Objective:**
 Develop a regression model to predict insurance premiums based on various factors.
@@ -39,7 +41,8 @@ Develop a regression model to predict insurance premiums based on various factor
 **Conclusion:**
 - RandomForestRegressor proved to be a reliable and efficient choice for regression tasks.
 
-**4. Project: Liver Patient Prediction**
+
+## 4. Project: Liver Patient Prediction
 
 **Objective:**
 Enhance liver disease diagnosis and management through advanced analysis of liver health.
